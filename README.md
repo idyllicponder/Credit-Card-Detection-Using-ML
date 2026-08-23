@@ -4,7 +4,7 @@
 Developed a model to predict whether its a fraud transaction or not based on the large data given. uses easy to implement ML algorithm and some visualisation
 
 With advancements in data science, machine learning has emerged as a powerful tool for
-fraud detection. Machine learning models can learn complex patterns from historical data
+fraud detection. Machine learning models can learn complex patterns from <a href="https://media.geeksforgeeks.org/wp-content/uploads/20240904104950/creditcard.csv">historical data</a>
 and generalize to unseen fraudulent behaviors. Supervised learning methods have been
 widely used, where models are trained on labeled datasets consisting of both genuine and
 fraudulent transactions.
